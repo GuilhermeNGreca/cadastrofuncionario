@@ -4,9 +4,7 @@
   Projeto pessoal aplicando conhecimentos adquiridos para a atualização do meu portfolio.
 </p>
 
-<p align="center">
-  <img alt="Projeto Cadastro de Funcionários" src="./CadastroFuncionario.png" width="100%">
-</p>
+![CadastroFuncionario](https://github.com/GuilhermeNGreca/cadastrofuncionario/assets/125670318/6ed0eaef-f09a-49d3-b3b7-6b2b058805a5)
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
